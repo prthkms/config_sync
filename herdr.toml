@@ -10,3 +10,8 @@ next_workspace = "prefix+="
 
 new_tab="prefix+n"
 close_tab="prefix+shift+x"
+
+[[keys.command]]
+key = "cmd+r"   # many macOS terminals swallow alt+
+type = "plugin_action"
+command = "persiyanov.reviewr.toggle"
