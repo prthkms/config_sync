@@ -1,0 +1,12 @@
+onboarding = false
+
+[theme]
+name = "kanagawa-lotus"
+auto_switch = false
+
+[keys]
+previous_workspace = "prefix+-"
+next_workspace = "prefix+="
+
+new_tab="prefix+n"
+close_tab="prefix+shift+x"
